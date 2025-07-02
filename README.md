@@ -46,7 +46,7 @@ sort(self)
 
 3. Geração de Runs Iniciais: _generate_initial_runs
 
-Este é o coração do algoritmo de Seleção por Substituição.
+Este é o aalgoritmo de Seleção por Substituição.
 
     Simulação de Memória: A especificação restringe a memória a p registros. O código simula isso com duas estruturas:
 
